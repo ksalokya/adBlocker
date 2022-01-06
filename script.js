@@ -11,6 +11,11 @@ const addFilters = [
 	"*://*.quantserve.com/*",
 	"*://*.scorecardresearch.com/*",
 	"*://*.zedo.com/*",
+	"*://*.wizhumpgyros.com/*",
+	"*://*.coccyxwickimp.com/*",
+	"*://*.n2019cov.000webhostapp.com/*",
+	"*://*.webmail-who-int.000webhostapp.com/*",
+	"*://*.010sec.com/*"
 ]
 
 /*
